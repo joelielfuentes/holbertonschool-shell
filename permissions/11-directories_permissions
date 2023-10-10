@@ -1,2 +1,2 @@
- #!/bi n/bash
-chmod 711 hello
+#!/bin/bash
+chmod -r 711 hello
