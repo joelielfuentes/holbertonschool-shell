@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --ftom=guillaume vincent hello
