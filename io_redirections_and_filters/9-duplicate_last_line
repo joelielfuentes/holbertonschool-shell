@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls_cwd_content
+head -n iacta | tail -n 1
